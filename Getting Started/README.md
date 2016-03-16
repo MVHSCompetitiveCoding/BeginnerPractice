@@ -51,6 +51,7 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 * **Pranav Mathur**
 * Zach O'hara
 * Daniel Grimshaw
+* Javier Anton
 
 ---------------------------------------------------------
 
@@ -71,6 +72,7 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 
 ####Team Experts
 * **Daniel Grimshaw**
+* Javier Anton
 
 ---------------------------------------------------------
 
