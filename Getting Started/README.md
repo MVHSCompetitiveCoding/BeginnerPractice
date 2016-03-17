@@ -117,7 +117,7 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 
 ----------------------------------------------------------
 
-##C-Sharp
+##C# #
 
 ####Pros
 * Just like Java, but without restrictions
