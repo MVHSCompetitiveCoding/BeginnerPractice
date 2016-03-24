@@ -200,3 +200,24 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 
 --------------------------------------------------------
 
+#Git and Github
+--------------------------------------------------------
+At Competitive Coding, all of our code is stored in what is called
+a git repository on a Github server. What exactly is this? A git
+repository is simply a folder that is controlled by a software called
+git. This allows us to save the status of a folder of code and prevents
+accidental deletion of very large files of code. Github is what you are
+probably viewing this file on right now. It is a cloud storage solution
+to host git repositories. This way, if your computer dies and you lose
+all of your code, the server still has a spare copy. It is also an
+excellent way to distribute your code and receive help on giant projects
+from the public. At Competitive Coding, you will only need to know the very
+basics of git at the beginner level. 
+
+All members must learn how to use git and Github.
+
+####Tutorial
+* [Learn Git in 15 Minutes](https://try.github.io/levels/1/challenges/1)
+
+####Team Experts
+* All of us
