@@ -221,3 +221,18 @@ All members must learn how to use git and Github.
 
 ####Team Experts
 * All of us
+
+------------------------------------------------------
+
+##Next Steps
+-------------------------------------------------------
+
+Now that you know a programming language and how to use git and github,
+you are ready to start doing practice problems! Clone this repository and
+MVHSCompetitiveCoding onto your computer or flash drive. You can start with
+either More Practice or Competition Training. Both are about equally difficult,
+but Competition Practice problems look more like they will in actual competitions,
+whereas More Practice is simply programming challenges designed to make
+you think. Follow the instructions in MVHSCompetitiveCoding to add solutions to Github.
+
+Have fun!
