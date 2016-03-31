@@ -1,0 +1,14 @@
+Write a program to test if the following inputs are consecutive:
+
+8,6,7
+8,10,7
+7,8,9
+3,2,1
+
+Example output:
+Numbers 8, 6, 7 are consecutive.
+Numbers 8, 10, 7 are not consecutive.
+Numbers 7, 8, 9 are consecutive.
+Numbers 3, 2, 1 are consecutive.
+
+Your output should match the example output
